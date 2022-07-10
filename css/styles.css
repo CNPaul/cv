@@ -1,0 +1,18 @@
+body{
+  width: 100%;
+  background-color: #9EB23B;
+  font-size: 2em;
+}
+
+hr{
+  border: 10px solid #0B4619;
+  border-radius: 5px;
+}
+
+img{
+  width: 355px;
+}
+
+h2{
+  color: #0B4619;
+}
